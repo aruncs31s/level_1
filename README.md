@@ -2,6 +2,13 @@
 
 Task: Understanding what is git?
 
+> [!IMPORTANT]
+> After reading this complete page you need to install python in you system and run the following
+>
+> ```python
+> python quiz.py
+> ```
+
 ## Little About Git
 
 Git was created by ["Linus Torvalds"](https://github.com/torvalds), for maintaining his projects. He is also the creater of linux.
